@@ -14,7 +14,7 @@ Acest document descrie activitățile realizate în **Etapa 3**, în care se ana
 ##  1. Structura Repository-ului Github (versiunea Etapei 3)
 
 ```
-AutoDataAI/
+CarVisionAI/
 ├── README.md
 ├── docs/
 │   └── datasets/          # descriere seturi de date, surse, diagrame
@@ -142,3 +142,4 @@ AutoDataAI/
 - [ ] Documentație actualizată în README + `data/README.md`
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
